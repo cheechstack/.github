@@ -1,6 +1,24 @@
-# cheechstack: Yet Another PHP Framework
+# CheechStack : Yet Another PHP Framework
 
 > This one's named after a cat :)
+>
+> Author: [Kyle Beasley](https://www.github.com/krbeasley)
+
+CheechStack is a collection of components designed to streamline my PHP Web Development process. Each component is entirely independent from the others, allowing for an "as needed" approach to development. 
+
+## Components
+
+- [Routing](https://github.com/cheechstack/routing)
+
+## Planned Components
+
+- Logging
+- Events
+- Jobs
+
+---
+
+> !! Warning - Yapping below !!
 
 I started development on CheechStack in 2025, after using Laravel to create a few internal and external projects for work. Laravel's elegance and ease-of-use was a joy to work with and each project I created with it, led me to learn more and dream bigger about what was possible within my web applications. 
 
